@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "614348285410",
+    "firebase_url": "https://android-api-9bcd6.firebaseio.com",
+    "project_id": "android-api-9bcd6",
+    "storage_bucket": "android-api-9bcd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614348285410:android:bdab530a56c6b9e6",
+        "android_client_info": {
+          "package_name": "com.lumsum.hoolanla.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614348285410-hbgja4p7bhrv3ojef7mgs10r8c0paqd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_CWAjOzL814dYi9wl-hltcuGuO4VrLXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
